@@ -35,4 +35,4 @@ Day 2 – TypeScript + Node Fundamentals Tasks
 
 8. *Simple CLI Program*
    Goal: use process.argv to take input.
-   Task: Run:
+  
